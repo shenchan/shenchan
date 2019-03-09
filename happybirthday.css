@@ -1,0 +1,11 @@
+@keyframes rainbow{
+    from{background-color:crimson;}
+    to{background-color:violet;}
+}
+.rainbow {
+    animation-name: rainbow;
+    animation-iteration-count: infinite;
+}
+.center {
+    text-align: center;
+}
